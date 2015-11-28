@@ -1,7 +1,7 @@
 name: Decisions
 favicon: null
-layout_spectrum: 0.46825431170873344
-typography_spectrum: 0.7515509678050876
+layout_spectrum: 1
+typography_spectrum: 0.25071
 title: Gourmet Pizzas - Homemade Gourmet Fudges
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.45532888802699745
-  lightness: 0.2965428235474974
-  saturation: 0.2609292317647487
+    - '#fdfdfd'
+    - '#1d1a1f'
+    - '#c7baa8'
+    - '#fe022d'
+    - '#71685f'
+  brandStrength: 0.4375
+  lightness: 0.4375
+  saturation: 0.5
   rhythmicContrast: 0.6750292899087071
 purpose: []
