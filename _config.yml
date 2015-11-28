@@ -1,0 +1,28 @@
+name: Decisions
+favicon: null
+layout_spectrum: 0.46825431170873344
+typography_spectrum: 0.7515509678050876
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.45532888802699745
+  lightness: 0.2965428235474974
+  saturation: 0.2609292317647487
+  rhythmicContrast: 0.6750292899087071
+purpose: []
